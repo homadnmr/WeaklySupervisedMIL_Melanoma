@@ -2,8 +2,8 @@
 Training
 ====
 For training the model, refer to the three MIL models:
-1.Clustering-constrained Attention Multiple Instance Learning (CLAM): (https://github.com/mahmoodlab/CLAM/tree/master)
-2.DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification: (https://github.com/hrzhang1123/DTFD-MIL/tree/main)
+1.Clustering-constrained Attention Multiple Instance Learning (CLAM): (https://github.com/mahmoodlab/CLAM/tree/master).
+2.DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification: (https://github.com/hrzhang1123/DTFD-MIL/tree/main).
 3.TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification: (https://github.com/szc19990412/TransMIL/tree/main)
 
 Dataset:
