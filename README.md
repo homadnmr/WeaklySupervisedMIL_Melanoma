@@ -1,4 +1,4 @@
-# WeaklySupervisedMIL_Melanoma_Nevi (Weakly supervised deep learning image analysis can differentiate melanoma from naevi on haematoxylin and eosin-stained histopathology slides)
+# (Weakly supervised deep learning image analysis can differentiate melanoma from naevi on haematoxylin and eosin-stained histopathology slides)
 Training
 ====
 For training the model, refer to the three MIL models:
