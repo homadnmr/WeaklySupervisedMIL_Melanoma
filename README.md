@@ -1,4 +1,5 @@
 # (Weakly supervised deep learning image analysis can differentiate melanoma from naevi on haematoxylin and eosin-stained histopathology slides)
+We followed the CLAM model prepreationa nd preprocessing steps.
 Training
 ====
 For training, refer to the three Multi-Instance Learning (MIL) models:
@@ -16,7 +17,7 @@ We have provided trained models (checkpoints) for all three MIL frameworks, usin
 
 | method | url |
 |-------------------|---------------------------------------|
-| CLAM  | [model](https://drive.google.com/drive/folders/10qU5ZP-tPyXdXbQ9svHpSK0dGv5B1DQp?usp=sharing) |
-| TransMIL|  [model](https://drive.google.com/drive/folders/1RD_jOLXfOMjasN6V-yMnkGaBKWR0T9qK?usp=sharing) | 
-| DTFD-MIL|  [model](https://drive.google.com/drive/folders/1hqzaEaFLArafV8mZWHzKUkHXCeSThh0M?usp=sharing) |
+| CLAM  | [model](https://drive.google.com/file/d/11xwankCL-vCYEC4xrhIP5YZtMRPSqJhK/view?usp=drive_link) |
+| TransMIL|  [model](https://drive.google.com/file/d/1xGhTiw0wZD5t08SstjrJbvRJU2jhA-bQ/view?usp=drive_link) | 
+| DTFD-MIL|  [model](https://drive.google.com/file/d/1GQjKblX3OaNQSlVMCtaLliVhRpVO4Zif/view?usp=drive_link) |
  
