@@ -2,7 +2,7 @@
 
 Training
 ====
-Note: We followed the CLAM model prepreationa nd preprocessing steps. Moreover, in this study ResNet encoder has been used to extarct the features.
+Note: We followed the CLAM model prepreationa and preprocessing steps. Moreover, in this study ResNet encoder has been used to extarct the features.
 
 For training, refer to the three Multi-Instance Learning (MIL) models:
 1.Clustering-constrained Attention Multiple Instance Learning (CLAM): (https://github.com/mahmoodlab/CLAM/tree/master).
