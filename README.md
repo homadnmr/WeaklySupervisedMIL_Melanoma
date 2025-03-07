@@ -1,5 +1,6 @@
 # (Weakly supervised deep learning image analysis can differentiate melanoma from naevi on haematoxylin and eosin-stained histopathology slides)
 We followed the CLAM model prepreationa nd preprocessing steps.
+In this study ResNet encoder has been used to extarct the features.
 Training
 ====
 For training, refer to the three Multi-Instance Learning (MIL) models:
